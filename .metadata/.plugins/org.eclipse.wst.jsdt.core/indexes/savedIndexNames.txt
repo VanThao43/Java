@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Java\Bai_tap_Java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2347186500.index
+727944408.index
+1536574621.index
+967674270.index
+4143910278.index
+3978878823.index

@@ -1,0 +1,3 @@
+Xin chào, hello world, i am CTV
+Dữ liệu: 3.14 là số PI
+SinhVien [maSinhVien=21020938, hoVaTen=Nguyễn Văn Thao]

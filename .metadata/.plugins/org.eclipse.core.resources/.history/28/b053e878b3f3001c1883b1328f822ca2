@@ -1,0 +1,16 @@
+package String;
+
+public class Bai2 {
+	public static void main(String[] args) {
+		String str = "@adb@cio@yuo@nhd@adb@nhd@mnv@cio@adb@";
+		
+		for (int i = 0; i<str.length(); i++) {
+			if (str.charAt(i) == '@') {
+				str = str.replace(str.charAt(i), ' ');
+			}
+		}
+		
+		str = str.trim();
+		System.out.println(str);
+	}
+}

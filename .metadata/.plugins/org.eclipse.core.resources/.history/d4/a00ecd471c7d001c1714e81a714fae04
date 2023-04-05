@@ -1,0 +1,11 @@
+package RutThamTrungThuong;
+
+import java.util.Set;
+
+public class ViDuHashSet {
+	Set<String> homPhieuTrungThuong = new ViDuHashSet<String>();
+	public static void main(String[] args) {
+
+	}
+
+}

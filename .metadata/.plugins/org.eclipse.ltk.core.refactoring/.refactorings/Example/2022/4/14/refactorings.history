@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;jse.TinhCmn&apos; to &apos;Cmn&apos;&#x0D;&#x0A;- Original project: &apos;Example&apos;&#x0D;&#x0A;- Original element: &apos;jse.TinhCmn&apos;&#x0D;&#x0A;- Renamed element: &apos;jse.Cmn&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TinhCmn&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;jse{TinhCmn.java[TinhCmn" matchStrategy="1" name="Cmn" qualified="false" references="true" similarDeclarations="false" stamp="1648870856707" textual="false" version="1.0"/>
+</session>

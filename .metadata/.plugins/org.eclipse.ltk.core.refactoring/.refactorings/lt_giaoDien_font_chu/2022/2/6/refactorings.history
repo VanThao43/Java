@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Model.LastButton&apos; to &apos;LastButtonModel&apos;&#x0D;&#x0A;- Original project: &apos;lt_giaoDien_font_chu&apos;&#x0D;&#x0A;- Original element: &apos;Model.LastButton&apos;&#x0D;&#x0A;- Renamed element: &apos;Model.LastButtonModel&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LastButton&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Model{LastButton.java[LastButton" matchStrategy="1" name="LastButtonModel" qualified="false" references="true" similarDeclarations="false" stamp="1643803575633" textual="false" version="1.0"/>
+</session>

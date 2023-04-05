@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;TaiXiu.java&apos; to &apos;MiniGame/src/TaiXiu&apos;&#x0D;&#x0A;- Original project: &apos;abc&apos;&#x0D;&#x0A;- Destination element: &apos;MiniGame/src/TaiXiu&apos;&#x0D;&#x0A;- Original element: &apos;TaiXiu.TaiXiu.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=MiniGame/src&lt;TaiXiu" element1="/src&lt;TaiXiu{TaiXiu.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1642515805371" units="1" version="1.0"/>
+</session>
